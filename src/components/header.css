@@ -1,0 +1,31 @@
+.Header{
+    background: black;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    font-size : x-large;
+}
+
+.active{
+    color: red;
+}
+
+li{
+    list-style: none;
+    margin-right: 30px;
+    margin: 10px 10px;
+}
+
+.main{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p{
+    text-align: justify;
+}
